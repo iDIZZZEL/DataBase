@@ -47,8 +47,6 @@ namespace Project_1
                     reader.Close();
                 }
             }
-
-
         }
     }
 }
